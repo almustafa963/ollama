@@ -1,5 +1,5 @@
 # API
-
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://opencode.ai/&ved=2ahUKEwj5yIXQpquUAxUwZkEAHXqgD3IQFnoECBIQAQ&sqi=2&usg=AOvVaw0ubSj49PQYIZ9Qy_Jn_N8v
 > Note: Ollama's API docs are moving to https://docs.ollama.com/api
 
 ## Endpoints
